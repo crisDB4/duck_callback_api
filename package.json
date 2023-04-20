@@ -1,0 +1,25 @@
+{
+  "name": "randomduck",
+  "version": "1.0.0",
+  "description": "The Duck Callback API Project is a website that displays a random duck image using the Random Duck API and a JavaScript callback. Users can enjoy a dynamic and interactive experience, getting a different image every time they press a button. The site has a user-friendly interface and is a fun way to learn about JavaScript callbacks in web development.",
+  "main": "index.js",
+  "scripts": {
+    "duckCallback": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisDB4/duck_callback_api.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Cristian Barrera <cristian.arcos.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crisDB4/duck_callback_api/issues"
+  },
+  "homepage": "https://github.com/crisDB4/duck_callback_api#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
